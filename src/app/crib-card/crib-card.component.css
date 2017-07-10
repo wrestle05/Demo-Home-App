@@ -1,0 +1,11 @@
+.thumbnail {
+  min-height: 380px;
+  
+  background:#f8ffd7
+}
+
+.label {
+  display: inline-block;
+  
+}
+
